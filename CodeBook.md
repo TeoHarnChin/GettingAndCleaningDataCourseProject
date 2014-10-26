@@ -6,7 +6,7 @@
 
 ### The first step is to join the data for train set and test set. A combined data for the respective group/set (i.e. test and train) is first obtained by combining the measurement data (e.g. X_test.txt) with the subject (e.g. subject_test.txt) and activity (e.g. activity_train.txt) data for the respective group. The two sets of combined data are then combined into a single set of data.
 
-### The second step is to subset the combined data such that only rows corresponding to the mean and standard deviation measurements of each of the features in original data is selected. The enumerated values representing various activity is also replaced with description names for the respective activities according to the information in “activity_labels.txt” (within “UCI HAR Dataset” folder).
+### The second step is to subset the combined data such that only columns corresponding to the mean and standard deviation measurements of each of the features in original data is selected. The enumerated values representing various activity is also replaced with description names for the respective activities according to the information in “activity_labels.txt” (within “UCI HAR Dataset” folder).
 
 ### With reference to “features_info.txt”, the features contained within the original measurement data (e.g. X_test.txt) are as follows:
 ### * tBodyAcc-XYZ
