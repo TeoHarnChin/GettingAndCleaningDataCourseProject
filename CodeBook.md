@@ -1,6 +1,6 @@
 ## Data Summary
 
-### This dataset described in this document is the summary of the Samsung data contained with “UCI HAR Dataset” folder within “getdata_projectfiles_UCI HAR Dataset.zip” file.
+### The dataset described in this document is the summary of data extracted from the Samsung data contained with “UCI HAR Dataset” folder contained within “getdata_projectfiles_UCI HAR Dataset.zip” file. This document should be used as a supplment to the documents describing the original data (e.g. “features_info.txt” and “README.txt”).
 
 ### This dataset is derived by performing a number of steps on the original data to analyze the data. Description of the original data can be found within the file “features_info.txt” within the “UCI HAR Dataset” folder.
 
